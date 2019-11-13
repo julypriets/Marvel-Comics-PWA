@@ -10,6 +10,9 @@ class ComicList extends Component {
 
   constructor(props) {
     super(props);
+  }
+
+  componentDidMount(){
     fetch("https://gateway.marvel.com:443/v1/public/characters", {
       method: "GET",
       headers: {
