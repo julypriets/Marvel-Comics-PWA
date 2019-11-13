@@ -4,10 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Tuve un error con la petición en la aplicación tal como se muestra en el navegador y no puedo ver los comics u__u sin embargo, lo probé con Postman y me funciona perfecto. 
 
 He aquí el error: 
-![Error](https://ibb.co/R2Lc74J)
+![Error](https://i.ibb.co/jh7DHZj/Screenshot-2019-11-13-at-10-26-52-AM.png)
 
 He aquí cómo luce en Postman: 
-![Postman](https://ibb.co/8PhH9vg)
+![Postman](https://i.ibb.co/NW4MKD2/Screenshot-2019-11-13-at-10-25-11-AM.png)
 
 ## Available Scripts
 
