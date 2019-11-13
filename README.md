@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Importante
+Tuve un error con la petición en la aplicación tal como se muestra en el navegador y no puedo ver los comics u__u sin embargo, lo probé con Postman y me funciona perfecto. 
+
+He aquí el error: 
+![Error](https://ibb.co/R2Lc74J)
+
+He aquí cómo luce en Postman: 
+![Postman](https://ibb.co/8PhH9vg)
+
 ## Available Scripts
 
 In the project directory, you can run:
